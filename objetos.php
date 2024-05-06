@@ -24,6 +24,8 @@ $maca = new Fruta("Maçã","Vermelha");
 echo " O nome da fruta é: " .$maca->get_nome();
 echo " A cor da fruta é: " .$maca->get_cor();
 
+?>
+
 
 
 
